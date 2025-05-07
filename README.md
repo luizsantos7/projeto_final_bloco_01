@@ -4,7 +4,7 @@ Bem-vindo à **Mercado Geek**, um projeto desenvolvido como parte do Bootcamp da
 
 O tema escolhido foi o universo **geek**, oferecendo produtos como action figures, decorações, quadrinhos e muito mais para os apaixonados por cultura nerd.
 
-![Capa GeekStore](https://i.imgur.com/your-image.png) <!-- Substitua por um link real ou remova -->
+![Capa GeekStore](https://sdmntpreastus.oaiusercontent.com/files/00000000-da4c-61f9-9348-970d028a23c1/raw?se=2025-05-07T19%3A32%3A39Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=31bc9c1a-c7e0-460a-8671-bf4a3c419305&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-07T17%3A49%3A05Z&ske=2025-05-08T17%3A49%3A05Z&sks=b&skv=2024-08-04&sig=9u6KAjvzPY0GCVSDrzM%2BxmdxLWiBV51HqzRUmIiHnBA%3D) <!-- Substitua por um link real ou remova -->
 
 ---
 
