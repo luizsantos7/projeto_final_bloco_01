@@ -1,6 +1,6 @@
 # 🧙‍♂️ GeekStore - E-commerce de Produtos Geek
 
-Bem-vindo à **GeekStore**, um projeto desenvolvido como parte do Bootcamp da [Generation Brasil](https://brazil.generation.org/), com foco em criar um e-commerce funcional utilizando **Java** e as boas práticas de desenvolvimento back-end.  
+Bem-vindo à **Mercado Geek**, um projeto desenvolvido como parte do Bootcamp da [Generation Brasil](https://brazil.generation.org/), com foco em criar um e-commerce funcional utilizando **Java** e as boas práticas de desenvolvimento back-end.  
 
 O tema escolhido foi o universo **geek**, oferecendo produtos como action figures, decorações, quadrinhos e muito mais para os apaixonados por cultura nerd.
 
