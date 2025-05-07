@@ -45,3 +45,6 @@ O tema escolhido foi o universo **geek**, oferecendo produtos como action figure
 ┗ 📁 JRE System Library [JavaSE-21]
 
 
+## Rede Social
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-b71795227/)
